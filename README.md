@@ -1,4 +1,15 @@
-### Hi there 👋
+### 🙌 Welcome to Manila's GitHub 🙌
+_a cute place except when it's not_ 😑
+
+#### 🥗 Currently learning:
+- Typescript
+- React Native
+- React Navigation v5
+- react-query
+
+#### 📚 Currently reading:
+- How to Build a Healthy 🧠
+- 🍇 of Wrath
 
 <!--
 **manilabui/manilabui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +22,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
