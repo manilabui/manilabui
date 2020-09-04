@@ -5,10 +5,11 @@ _a cute place except when it's not_ 😑
 - Typescript
 - React Native
 - React Navigation v5
-- react-query
+- Redux
+- SQL
 
 #### 📚 Currently reading:
-- How to Build a Healthy 🧠
+- A Mind for Numbers 🧮
 - 🍇 of Wrath
 
 <!--
