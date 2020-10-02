@@ -2,9 +2,7 @@
 _a cute place except when it's not_ 😑
 
 #### 🥗 Currently learning:
-- Typescript
-- React Native
-- React Navigation v5
+- React Native/Expo
 - Redux
 - SQL
 
