@@ -3,12 +3,12 @@ _a cute place except when it's not_ 😑
 
 #### 🥗 Currently learning:
 - React Native/Expo
-- Redux
-- SQL
+- TypeORM
+- NestJS
 
 #### 📚 Currently reading:
 - A Mind for Numbers 🧮
-- 🍇 of Wrath
+- Memories of Ice 🧊
 
 <!--
 **manilabui/manilabui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
