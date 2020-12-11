@@ -3,6 +3,7 @@ _a cute place except when it's not_ 😑
 
 #### 🥗 Currently learning:
 - React Native/Expo
+- Redux
 - TypeORM
 - NestJS
 
