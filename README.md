@@ -8,7 +8,7 @@ _a cute place except when it's not_ 😑
 - NestJS
 
 #### 📚 Currently reading:
-- A Mind for Numbers 🧮
+- The Boy Who Was Raised as a Dog
 - Memories of Ice 🧊
 
 <!--
