@@ -8,7 +8,7 @@ _a cute place except when it's not_ 😑
 - NestJS
 
 #### 📚 Currently reading:
-- The Boy Who Was Raised as a Dog
+- The Cosmic Code
 - Memories of Ice 🧊
 
 <!--
