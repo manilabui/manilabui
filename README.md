@@ -1,12 +1,6 @@
 ### 🙌 Welcome to Manila's GitHub 🙌
 _a cute place except when it's not_ 😑
 
-#### 🥗 Currently learning:
-- React Native/Expo
-- Redux
-- TypeORM
-- NestJS
-
 #### 📚 Currently reading:
 - The Cosmic Code
 - Memories of Ice 🧊
