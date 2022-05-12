@@ -3,7 +3,7 @@ _a cute place except when it's not_ 😑
 
 #### 📚 Currently reading:
 - The Cosmic Code
-- Thunderhead
+- Where the Crawdads Sing
 
 <!--
 **manilabui/manilabui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
