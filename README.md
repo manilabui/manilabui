@@ -1,10 +1,6 @@
 ### 🙌 Welcome to Manila's GitHub 🙌
 _a cute place except when it's not_ 😑
 
-#### 📚 Currently reading:
-- The Cosmic Code
-- Circe
-
 <!--
 **manilabui/manilabui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
